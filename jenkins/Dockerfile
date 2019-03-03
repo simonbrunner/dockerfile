@@ -8,7 +8,7 @@ FROM jenkinsci/jenkins
 
 MAINTAINER mail@simonbrunner.com
 
-ENV M3_VERSION 3.3.9
+ENV M3_VERSION 3.6.0
 
 USER root
 RUN apt-get update 
