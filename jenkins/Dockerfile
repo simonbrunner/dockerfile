@@ -4,7 +4,7 @@
 # Based on jenkinsci/jenkins
 ############################################################
 
-FROM jenkinsci/jenkins
+FROM jenkins/jenkins
 
 MAINTAINER mail@simonbrunner.com
 
